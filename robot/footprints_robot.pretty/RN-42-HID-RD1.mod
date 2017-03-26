@@ -1,0 +1,369 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+MICROCHIP_RN-42-HID-RD1
+$EndINDEX
+$MODULE MICROCHIP_RN-42-HID-RD1
+Po 0 0 0 15 00000000 00000000 ~~
+Li MICROCHIP_RN-42-HID-RD1
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0.1
+.SolderPaste 0
+T0 -4.46 -14.635 1 1 0 0.05 N V 21 "MICROCHIP_RN-42-HID-RD1"
+T1 -3.81495 15.6111 1 1 0 0.05 N V 21 "VAL**"
+DS -6.7 12.9 6.7 12.9 0.127 24
+DS 6.7 12.9 6.7 -7.6 0.127 24
+DS 6.7 -7.6 6.7 -12.9 0.127 24
+DS 6.7 -12.9 -6.7 -12.9 0.127 24
+DS -6.7 -12.9 -6.7 -7.6 0.127 24
+DS -6.7 -7.6 -6.7 12.9 0.127 24
+DS -6.7 -7.6 6.7 -7.6 0.127 24
+DS -6 -12 -4 -12 0.127 24
+DS -4 -12 -4 -9 0.127 24
+DS -4 -9 -3 -9 0.127 24
+DS -3 -9 -3 -12 0.127 24
+DS -3 -12 -2 -12 0.127 24
+DS -2 -12 -2 -9 0.127 24
+DS -2 -9 -1 -9 0.127 24
+DS -1 -9 -1 -12 0.127 24
+DS -1 -12 0 -12 0.127 24
+DS 0 -12 0 -9 0.127 24
+DS 0 -9 1 -9 0.127 24
+DS 1 -9 1 -12 0.127 24
+DS 1 -12 2 -12 0.127 24
+DS 2 -12 2 -9 0.127 24
+DS 2 -9 3 -9 0.127 24
+DS 3 -9 3 -12 0.127 24
+DS 3 -12 4 -12 0.127 24
+DS 4 -12 4 -8.625 0.127 24
+DS 3.625 -8.625 3.625 -11.625 0.127 24
+DS 3.625 -11.625 3.375 -11.625 0.127 24
+DS 3.375 -11.625 3.375 -8.625 0.127 24
+DS 3.375 -8.625 1.625 -8.625 0.127 24
+DS 1.625 -8.625 1.625 -11.625 0.127 24
+DS 1.625 -11.625 1.375 -11.625 0.127 24
+DS 1.375 -11.625 1.375 -8.625 0.127 24
+DS 1.375 -8.625 -0.375 -8.625 0.127 24
+DS -0.375 -8.625 -0.375 -11.625 0.127 24
+DS -0.375 -11.625 -0.625 -11.625 0.127 24
+DS -0.625 -11.625 -0.625 -8.625 0.127 24
+DS -0.625 -8.625 -2.375 -8.625 0.127 24
+DS -2.375 -8.625 -2.375 -11.625 0.127 24
+DS -2.375 -11.625 -2.625 -11.625 0.127 24
+DS -2.625 -11.625 -2.625 -8.625 0.127 24
+DS -2.625 -8.625 -4.375 -8.625 0.127 24
+DS -4.375 -8.625 -4.375 -11.625 0.127 24
+DS -4.375 -11.625 -6 -11.625 0.127 24
+DS -6 -11.625 -6 -12 0.127 24
+DS 3.625 -8.625 4 -8.625 0.127 24
+DS -5.875 -11.8125 -4.1875 -11.8125 0 24
+DS -4.1875 -11.8125 -4.1875 -8.8125 0 24
+DS -4.1875 -8.8125 -2.8125 -8.8125 0 24
+DS -2.8125 -8.8125 -2.8125 -11.8125 0 24
+DS -2.8125 -11.8125 -2.1875 -11.8125 0 24
+DS -2.1875 -11.8125 -2.1875 -8.8125 0 24
+DS -2.1875 -8.8125 -0.8125 -8.8125 0 24
+DS -0.8125 -8.8125 -0.8125 -11.8125 0 24
+DS -0.8125 -11.8125 -0.1875 -11.8125 0 24
+DS -0.1875 -11.8125 -0.1875 -8.8125 0 24
+DS -0.1875 -8.8125 1.1875 -8.8125 0 24
+DS 1.1875 -8.8125 1.1875 -11.8125 0 24
+DS 1.1875 -11.8125 1.8125 -11.8125 0 24
+DS 1.8125 -11.8125 1.8125 -8.8125 0 24
+DS 1.8125 -8.8125 3.1875 -8.8125 0 24
+DS 3.1875 -8.8125 3.1875 -11.8125 0 24
+DS 3.1875 -11.8125 3.8125 -11.8125 0 24
+DS 3.8125 -11.8125 3.8125 -8.8125 0 24
+$PAD
+Sh "1" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 -3.1
+$EndPAD
+$PAD
+Sh "2" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 -1.9
+$EndPAD
+$PAD
+Sh "3" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 -0.7
+$EndPAD
+$PAD
+Sh "4" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 0.5
+$EndPAD
+$PAD
+Sh "5" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 1.7
+$EndPAD
+$PAD
+Sh "6" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 2.9
+$EndPAD
+$PAD
+Sh "7" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 4.1
+$EndPAD
+$PAD
+Sh "8" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 5.3
+$EndPAD
+$PAD
+Sh "9" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 6.5
+$EndPAD
+$PAD
+Sh "10" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 7.7
+$EndPAD
+$PAD
+Sh "11" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 8.9
+$EndPAD
+$PAD
+Sh "12" R 2 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 10.1
+$EndPAD
+$PAD
+Sh "13" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 10.1
+$EndPAD
+$PAD
+Sh "14" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 8.9
+$EndPAD
+$PAD
+Sh "15" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 7.7
+$EndPAD
+$PAD
+Sh "16" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 6.5
+$EndPAD
+$PAD
+Sh "17" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 5.3
+$EndPAD
+$PAD
+Sh "18" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 4.1
+$EndPAD
+$PAD
+Sh "19" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 2.9
+$EndPAD
+$PAD
+Sh "20" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 1.7
+$EndPAD
+$PAD
+Sh "21" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 0.5
+$EndPAD
+$PAD
+Sh "22" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 -0.7
+$EndPAD
+$PAD
+Sh "23" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 -1.9
+$EndPAD
+$PAD
+Sh "24" R 2 0.8 0 0 1800
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 6.4 -3.1
+$EndPAD
+$PAD
+Sh "35" R 2 0.8 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 12.6
+$EndPAD
+$PAD
+Sh "29" R 2 0.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -3.1 12.6
+$EndPAD
+$PAD
+Sh "34" R 2 0.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -1.8 12.6
+$EndPAD
+$PAD
+Sh "33" R 2 0.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -0.6 12.6
+$EndPAD
+$PAD
+Sh "32" R 2 0.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0.6 12.6
+$EndPAD
+$PAD
+Sh "31" R 2 0.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 1.8 12.6
+$EndPAD
+$PAD
+Sh "28" R 2 0.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 3.1 12.6
+$EndPAD
+$PAD
+Sh "30" R 2 0.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 12.6
+$EndPAD
+$PAD
+Sh "SHIELD3" R 1 1.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -5.6 12.15
+$EndPAD
+$PAD
+Sh "SHIELD4" R 1 1.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 5.6 12.15
+$EndPAD
+$PAD
+Sh "SHIELD1" R 1 1.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -5.6 -6.85
+$EndPAD
+$PAD
+Sh "SHIELD2" R 1 1.8 0 0 900
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 5.6 -6.85
+$EndPAD
+$EndMODULE MICROCHIP_RN-42-HID-RD1
